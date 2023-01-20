@@ -1,0 +1,36 @@
+body{
+    padding: 50px 100px;
+    /* background-color: aqua; */
+}
+
+h1{
+
+    text-align: center;
+    padding: 30px;
+    font-size: 55px;
+    color: blue;
+}
+#container{
+    text-align: center;
+    padding: 100px;
+    background-color: aqua;
+    /* margin: 50px 100px; */
+
+}
+.input-temp{
+    display: inline-block;
+}
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    border-radius: 20px;
+    color: brown;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+
+}
+label{
+    font-size: 22px;
+    color: blue;
+}
